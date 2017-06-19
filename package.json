@@ -1,0 +1,31 @@
+{
+  "name": "ayudantia-api",
+  "version": "1.0.0",
+  "description": "Ayudantía API AJAX",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mishrole/ayundatia-api.git"
+  },
+  "keywords": [
+    "AJAX",
+    "JSON",
+    "HTML",
+    "JS",
+    "API",
+    "BOOTSTRAP"
+  ],
+  "author": "Mitchell Rodríguez <mitrodle@gmail.com> (https://github.com/mishrole)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mishrole/ayundatia-api/issues"
+  },
+  "homepage": "https://github.com/mishrole/ayundatia-api#readme",
+  "devDependencies": {
+    "express": "^4.15.3"
+  }
+}
